@@ -27,7 +27,7 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [Learvista]() | University management system with fees, tests, and attendance features.Tech Stack: HTML, CSS, Bootstrap, jQuery, PHP, MySQL
+| [Learvista]() | University management system with fees, tests, and attendance features. | HTML, CSS, Bootstrap, jQuery, PHP, MySQL
 | 
 ---
 
