@@ -1,25 +1,26 @@
-<h1 align="center">Hi 👋, I'm Himanshu Chandlani</h1>
-<h3 align="center">Full-Stack Developer | ML Engineer | AI Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer+%7C+ML+Engineer;Python+%7C+Flask+%7C+scikit-learn;Always+Learning+and+Building...&center=true&width=500" />
-</p>
+# Hi, I'm Himanshu Chandlani 👋
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/himanshu-chandlani-568b04285/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:himanshuchandlani07@gmail.com"><img src="https://img.shields.io/badge/Email-D00000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://portfolio-lake-nu-74.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://github.com/Himanshu0710-array"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+**Full-Stack Developer · ML Engineer · AI Enthusiast**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer+%7C+ML+Engineer;Python+%7C+Flask+%7C+scikit-learn;Building+impactful%2C+data-driven+software...&center=true&width=520&color=4F8EF7)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-chandlani-568b04285/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-lake-nu-74.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Himanshu0710-array)
+[![Email](https://img.shields.io/badge/Email-D00000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himanshuchandlani07@gmail.com)
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Final-year **B.Tech Computer Science** student at JECRC, Jaipur (CGPA: 8.45)
-- 🤖 Built and deployed **3 production-ready ML applications** using Python, Flask, and scikit-learn
+- 🎓 Final-year **B.Tech Computer Science** student at JECRC, Jaipur — **CGPA: 8.45**
+- 🤖 Built and deployed **3 production-ready ML applications** using Python, Flask & scikit-learn
 - 💼 **Full Stack Developer Intern** at Potential Tutorial (June 2025)
-- 🏆 Certified by **NVIDIA** (Deep Learning), **Oracle** (Data Science OCI 2025), and **Salesforce** (Agentblazer)
+- 🏆 Certified by **NVIDIA**, **Oracle**, **Salesforce**, and **Deloitte**
 - 🌱 Currently exploring **Generative AI**, **OpenAI & Gemini APIs**, and **System Design**
 - 💡 Passionate about building impactful, data-driven software
 
@@ -29,72 +30,105 @@
 
 **Languages**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,php" />
-</p>
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 **AI / ML**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
-  &nbsp;NumPy &nbsp;|&nbsp; Pandas &nbsp;|&nbsp; scikit-learn &nbsp;|&nbsp; NLTK &nbsp;|&nbsp; TF-IDF &nbsp;|&nbsp; NLP &nbsp;|&nbsp; Logistic Regression
-</p>
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**Web Development**
+**Web & Tools**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flask,bootstrap,jquery,php,vercel" />
-</p>
-
-**Tools & Platforms**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,mysql,vscode" />
-</p>
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
 ## 🔥 Featured Projects
 
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| **Customer Churn Prediction** | ML model predicting telecom customer churn with 85%+ accuracy on 7,000+ records | Python, Flask, scikit-learn, HTML, CSS | [GitHub](https://github.com/Himanshu0710-array/telco-churn-predictor) · [Live](https://telco-churn-predictor-7117.onrender.com/) |
-| **Resume Screening System** | NLP-powered resume ranking engine using TF-IDF, processing 100+ resumes in under 10s | Python, Flask, NLP, scikit-learn | [GitHub](https://github.com/Himanshu0710-array/Resume-Analyzer) · [Live](https://resume-analyzer-chi-three.vercel.app/) |
-| **University Management System** | Role-based web portal managing fees, attendance & test records for 500+ students | PHP, MySQL, Bootstrap, jQuery | [GitHub](https://github.com/Himanshu0710-array/eduportal) · [Live](https://eduportal-b6om.onrender.com/) |
+### 🔮 [Customer Churn Prediction](https://github.com/Himanshu0710-array/telco-churn-predictor)
+> ML model predicting telecom customer churn with **85%+ accuracy** on 7,000+ records
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+&nbsp;[🔗 Live Demo](https://telco-churn-predictor-7117.onrender.com/)
 
 ---
 
-## 🏆 Achievements & Certifications
+### 📄 [Resume Screening System](https://github.com/Himanshu0710-array/Resume-Analyzer)
+> NLP-powered resume ranking engine using TF-IDF, processing **100+ resumes in under 10s**
 
-- 🥇 **NVIDIA** — Fundamentals of Deep Learning
-- 🥇 **Oracle** — Certified Data Science Professional (OCI 2025)
-- 🥇 **Salesforce** — Agentblazer Workshop, Trailhead (July 2025)
-- 🥇 **Deloitte** — Data Analytics Job Simulation, Forage (September 2025)
-- 🏅 Competed in **Innovation Hackathon — ICI FEST 2025** (24-Hour Sprint)
-- 🏅 **Full Stack Developer Intern** — Potential Tutorial (June 2025, 45 Days)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-FF6F61?style=flat-square&logo=python&logoColor=white)
+&nbsp;[🔗 Live Demo](https://resume-analyzer-chi-three.vercel.app/)
+
+---
+
+### 🎓 [University Management System](https://github.com/Himanshu0710-array/eduportal)
+> Role-based web portal managing fees, attendance & records for **500+ students**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+&nbsp;[🔗 Live Demo](https://eduportal-b6om.onrender.com/)
+
+---
+
+## 🏆 Certifications
+
+| Badge | Certification | Issuer |
+|-------|--------------|--------|
+| 🥇 | Fundamentals of Deep Learning | NVIDIA |
+| 🥇 | Certified Data Science Professional (OCI 2025) | Oracle |
+| 🥇 | Agentblazer Workshop, Trailhead | Salesforce |
+| 🥇 | Data Analytics Job Simulation | Deloitte · Forage |
+| 🏅 | Innovation Hackathon — ICI FEST 2025 | 24-Hour Sprint |
+| 🏅 | Full Stack Developer Intern | Potential Tutorial |
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Himanshu0710-array&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu0710-array&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshu0710-array&theme=tokyonight&hide_border=true" width="60%" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Himanshu0710-array&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu0710-array&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Himanshu0710-array&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
 ## 🧠 Currently Learning
 
-- 🔁 Data Structures & Algorithms (DSA)
-- 🤖 Generative AI — OpenAI & Gemini APIs
-- 🏗️ System Design Basics
-- 🔗 AI Integration with Full-Stack Applications
+```text
+📐 Data Structures & Algorithms
+🤖 Generative AI  —  OpenAI & Gemini APIs
+🏗️ System Design
+🔗 AI Integration with Full-Stack Apps
+```
 
 ---
 
-> *"The best way to learn is to build. The best way to build is to stay curious."* 💡
+<div align="center">
+
+*"The best way to learn is to build. The best way to build is to stay curious."* 💡
+
+![Profile views](https://komarev.com/ghpvc/?username=Himanshu0710-array&color=4F8EF7&style=flat-square)
+
+</div>
