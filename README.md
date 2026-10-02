@@ -1,26 +1,28 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Himanshu%20Chandlani&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20AI%20Enthusiast&descAlignY=58&descSize=16&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Himanshu%20Chandlani&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20GenAI%20Builder&descAlignY=58&descSize=16&animation=fadeIn" />
 </div>
-
-<br/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+ML+apps+that+go+to+production+%F0%9F%9A%80;NLP+%7C+Flask+%7C+scikit-learn+%7C+Full-Stack;Final-year+CS+%40+JECRC+%E2%80%A2+CGPA+8.45+%F0%9F%8C%9F;Always+learning%2C+always+shipping+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+ML+and+GenAI+apps+that+ship+to+production+%F0%9F%9A%80;RAG+%7C+NLP+%7C+Flask+%7C+Full-Stack;Final-year+CS+%40+JECRC+%E2%80%A2+CGPA+8.45+%F0%9F%8C%9F;The+best+way+to+learn+is+to+build+%F0%9F%94%A5)](https://git.io/typing-svg)
+
+[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%8C_Portfolio-A78BFA?style=for-the-badge)](https://portfolio-lake-nu-74.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-chandlani-568b04285/)
+[![Gmail](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himanshuchandlani07@gmail.com)
+
+**🟢 Open to ML Engineering and Full-Stack Python roles**
 
 </div>
-
-<br/>
 
 ---
 
-## ⚡ Quick Stats
+## ⚡ At a Glance
 
 <div align="center">
 
-| 🤖 Production ML Apps | 🎯 Model Accuracy | 🎓 Students Served | 💼 Experience |
-|:---:|:---:|:---:|:---:|
-| **3** | **85%+** | **500+** | **Full Stack Intern** |
+| 🚀 Deployed Projects | 🎯 Model Accuracy | 🎓 Students Served | 💼 Internships | 📜 Certifications |
+|:---:|:---:|:---:|:---:|:---:|
+| **4** | **85%+** | **500+** | **2** | **5** |
 
 </div>
 
@@ -32,43 +34,74 @@
 class HimanshuChandlani:
 
     def __init__(self):
-        self.name       = "Himanshu Chandlani"
-        self.location   = "Jaipur, India 🇮🇳"
-        self.education  = "B.Tech CSE @ JECRC (CGPA: 8.45)"
-        self.roles      = ["Full-Stack Developer", "ML Engineer", "AI Enthusiast"]
-        self.internship = "Full Stack Developer @ Potential Tutorial (June 2025)"
+        self.name      = "Himanshu Chandlani"
+        self.location  = "Jaipur, India 🇮🇳"
+        self.education = "B.Tech CSE @ JECRC Foundation (CGPA: 8.45)"
+        self.focus     = ["ML Engineering", "RAG & GenAI Systems", "Full-Stack Python"]
+        self.seeking   = "ML Engineer / Full-Stack Python Developer (post-graduation)"
 
     def tech_stack(self):
         return {
-            "languages" : ["Python", "C++", "JavaScript", "PHP", "HTML", "CSS"],
-            "ml_ai"     : ["scikit-learn", "NLTK", "TF-IDF", "NLP", "NumPy", "Pandas"],
-            "web"       : ["Flask", "Bootstrap", "jQuery", "Vercel", "Render"],
-            "databases" : ["MySQL"],
-            "tools"     : ["Git", "GitHub", "Linux", "VS Code"],
+            "languages": ["Python", "C++", "JavaScript", "PHP"],
+            "ml_ai":     ["scikit-learn", "NLTK", "TF-IDF", "Gemini API", "ChromaDB", "RAG"],
+            "backend":   ["Flask", "SQLAlchemy", "JWT", "SSE streaming", "MySQL", "SQLite"],
+            "deploy":    ["Docker", "Render", "Vercel", "Git", "Linux"],
         }
 
     def currently_learning(self):
-        return ["DSA", "Generative AI", "OpenAI & Gemini APIs", "System Design"]
+        return ["Agentic AI", "System Design", "DSA", "AI + Full-Stack integration"]
 
-    def life_motto(self):
+    def motto(self):
         return "The best way to learn is to build 🔥"
-
-me = HimanshuChandlani()
 ```
 
 ---
 
-## 🚀 Featured Projects
+## 🌟 Featured Project
+
+### 🏦 AI Loan Advisory Chatbot — RAG System
+> Capstone for my **Celebal Technologies** internship. Answers loan questions from real documents, cites its sources, and refuses to wander off-topic.
+
+```mermaid
+flowchart LR
+    A[User question] --> B{Semantic Domain Gate}
+    B -- off-topic --> X[Polite refusal]
+    B -- loan-related --> C[Gemini embeddings]
+    C --> D[(ChromaDB)]
+    D --> E[Top-k relevant chunks]
+    E --> F[Gemini 2.0 Flash]
+    F --> G[Streamed answer + file and page citations]
+```
+
+- 🛡️ **Semantic Domain Gate** blocks off-topic queries before they reach the LLM
+- 📎 **Citation-based answers** with source file name and page number to reduce hallucination
+- ⚡ **Token-by-token streaming** to the frontend using Server-Sent Events
+- 📄 **Multi-format ingestion**: PDF, DOCX, XLSX and web pages, chunked with overlap
+- 🔐 **JWT auth**, saved chat history, and PDF export of conversations
+- 🧮 **EMI calculator** with a month-by-month amortization schedule
+- ☁️ **Hybrid deployment**: Flask + Docker on Render, Vanilla JS frontend on Vercel
+
+![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask)
+![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-FF6446?style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+[![Code](https://img.shields.io/badge/Internship_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Himanshu0710-array/Himanshu_Chandlani_JECRC_Foundation_CEI)
+
+---
+
+## 🚀 More Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🔮 Customer Churn Prediction
-> Telecom churn ML model with **85%+ accuracy** on **7,000+ records**
+> Telecom churn model with **85%+ accuracy** on **7,000+ records**
 
 - 📊 Logistic Regression pipeline on real telecom data
-- 🌐 Deployed Flask API with live prediction UI
+- 🌐 Flask API with a live prediction UI
 - ⚡ Sub-second inference in production
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -84,8 +117,8 @@ me = HimanshuChandlani()
 ### 📄 Resume Screening System
 > NLP engine ranking **100+ resumes in under 10 seconds**
 
-- 🧠 TF-IDF vectorization + cosine similarity ranking
-- 📁 Batch processing pipeline for bulk uploads
+- 🧠 TF-IDF vectorization + cosine similarity
+- 📁 Batch pipeline for bulk uploads
 - 🎯 Relevance scoring against job descriptions
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -101,9 +134,9 @@ me = HimanshuChandlani()
 <td colspan="2" valign="top">
 
 ### 🎓 University Management System
-> Role-based portal for **500+ students** — fees, attendance and test records in one place
+> Role-based portal for **500+ students**: fees, attendance and test records in one place
 
-- 🔐 Multi-role auth system (Admin / Faculty / Student)
+- 🔐 Multi-role auth (Admin / Faculty / Student)
 - 📋 Live attendance tracking and report generation
 - 💳 Fee management with payment history
 
@@ -118,6 +151,15 @@ me = HimanshuChandlani()
 </td>
 </tr>
 </table>
+
+---
+
+## 💼 Experience
+
+| 🗓️ When | 🏢 Where | 🎯 What I did |
+|:---|:---|:---|
+| **May – Jul 2026** | **Celebal Technologies** · Data Science (CEI) | Weekly assignments building toward a RAG system: FAISS + sentence-transformers pipeline, an agentic AI pipeline with conditional routing and tool calls, then the Loan Advisory Chatbot capstone |
+| **Jun 2025** (45 days) | **Potential Tutorial** · Full Stack Developer Intern | Built and shipped full-stack features end to end |
 
 ---
 
@@ -139,16 +181,20 @@ me = HimanshuChandlani()
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 
-**Web and Tools**
+**Backend, Data and DevOps**
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
 </div>
 
@@ -162,10 +208,9 @@ me = HimanshuChandlani()
 |:---:|:---|:---|:---:|
 | 🟢 | Fundamentals of Deep Learning | **NVIDIA** | 2025 |
 | 🔴 | Certified Data Science Professional (OCI) | **Oracle** | 2025 |
-| 🔵 | Agentblazer Workshop — Trailhead | **Salesforce** | 2025 |
+| 🔵 | Agentblazer Workshop (Trailhead) | **Salesforce** | 2025 |
 | 🟩 | Data Analytics Job Simulation | **Deloitte · Forage** | 2025 |
-| ⚡ | Innovation Hackathon — ICI FEST | **24-Hour Sprint** | 2025 |
-| 💼 | Full Stack Developer Internship (45 Days) | **Potential Tutorial** | 2025 |
+| ⚡ | Innovation Hackathon, ICI FEST | **24-Hour Sprint** | 2025 |
 
 </div>
 
@@ -193,29 +238,22 @@ me = HimanshuChandlani()
 
 ## 🌱 Currently Leveling Up
 
-<div align="center">
-
+```text
+┌──────────────────────────────────────────────────┐
+│  🤖  Agentic AI · tool use · conditional routing │
+│  📐  Data Structures & Algorithms                │
+│  🏗️   System Design Fundamentals                 │
+│  🔗  Shipping AI features inside full-stack apps │
+└──────────────────────────────────────────────────┘
 ```
-┌─────────────────────────────────────────────────┐
-│                                                 │
-│  📐  Data Structures & Algorithms               │
-│                                                 │
-│  🤖  Generative AI  ·  OpenAI & Gemini APIs     │
-│                                                 │
-│  🏗️   System Design Fundamentals                │
-│                                                 │
-│  🔗  AI Integration with Full-Stack Apps        │
-│                                                 │
-└─────────────────────────────────────────────────┘
-```
-
-</div>
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <div align="center">
+
+I'm looking for ML Engineering and Full-Stack Python roles. If you're building something with RAG, NLP or applied ML, I'd love to talk.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-chandlani-568b04285/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-lake-nu-74.vercel.app/)
