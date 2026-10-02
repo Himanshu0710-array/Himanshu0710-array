@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="Himanshu Chandlani - Mission Control" width="100%"/>
+<img src="hero.svg" alt="Himanshu Chandlani - Mission Control" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+ML+and+GenAI+apps+that+ship+%F0%9F%9A%80;RAG+%7C+NLP+%7C+Flask+%7C+Full-Stack;Final-year+CS+%40+JECRC+%E2%80%A2+CGPA+8.45;The+best+way+to+learn+is+to+build+%F0%9F%94%A5)](https://git.io/typing-svg)
 
@@ -11,7 +11,7 @@
 
 </div>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 ## 🛰️ Mission Briefing
 
@@ -32,15 +32,15 @@ motto:      The best way to learn is to build
 
 </div>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 ## 🪐 Tech Orbit
 
 <div align="center">
-<img src="assets/orbit.svg" alt="Animated orbit of my tech stack" width="760"/>
+<img src="orbit.svg" alt="Animated orbit of my tech stack" width="760"/>
 </div>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 ## 🌟 Flagship Mission: AI Loan Advisory Chatbot
 
@@ -66,7 +66,7 @@ flowchart LR
 
 [![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github)](https://github.com/Himanshu0710-array/Himanshu_Chandlani_JECRC_Foundation_CEI)
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 ## 🚀 More Missions
 
@@ -113,7 +113,7 @@ Role-based portal (Admin / Faculty / Student) for **500+ students**: attendance,
 </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 ## 📡 Flight Log
 
@@ -136,7 +136,7 @@ Role-based portal (Admin / Faculty / Student) for **500+ students**: attendance,
 
 </div>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 ## 📊 Telemetry
 
@@ -153,7 +153,7 @@ Role-based portal (Admin / Faculty / Student) for **500+ students**: attendance,
 
 </div>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 <div align="center">
 
