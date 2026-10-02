@@ -4,10 +4,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+ML+and+GenAI+apps+that+ship+%F0%9F%9A%80;RAG+%7C+NLP+%7C+Flask+%7C+Full-Stack;Final-year+CS+%40+JECRC+%E2%80%A2+CGPA+8.45;The+best+way+to+learn+is+to+build+%F0%9F%94%A5)](https://git.io/typing-svg)
 
-[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%8C_Portfolio-A78BFA?style=for-the-badge)](https://portfolio-lake-nu-74.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%8C_Portfolio-A78BFA?style=for-the-badge)](https://portfolio1-sable-iota.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-chandlani-568b04285/)
 [![Gmail](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himanshuchandlani07@gmail.com)
-![Profile views](https://komarev.com/ghpvc/?username=Himanshu0710-array&color=A78BFA&style=for-the-badge&label=VIEWS)
+[![Profile views](https://hits.sh/github.com/Himanshu0710-array.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=a78bfa&labelColor=1e1b4b)](https://hits.sh/github.com/Himanshu0710-array/)
 
 </div>
 
